@@ -1,8 +1,8 @@
 # WhisperTranscribe
 
-WhisperTranscribe is a simple yet powerful transcription tool that uses AI to convert your audio and video files into accurate text. Whether you're working with podcasts, lectures, interviews, or any spoken content, WhisperTranscribe makes transcription fast and easy.
+WhisperTranscribe is a simple yet powerful GUI transcription tool that uses AI to convert your audio and video files into accurate text. Whether you're working with podcasts, lectures, interviews, or any spoken content, WhisperTranscribe makes transcription fast and easy.
 
-![WhisperTranscribe](E:\ProjectsCode\Python\GUI\TranscriptMediaFile\Releases\WhisperTranscribe.jpg)
+![WhisperTranscribe](https://github.com/devsubrata/WhisperTranscribe/blob/main/Releases/WhisperTranscribe.jpg)
 
 ## Features
 
