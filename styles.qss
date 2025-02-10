@@ -1,0 +1,33 @@
+/* styles.qss */
+QWidget {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+}
+
+QPushButton {
+    background-color: lightblue;
+    font-size: 20px;
+    border: 2px solid darkblue;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+QPushButton:hover {
+    background-color: lightgreen;
+}
+
+QLabel {
+    color: brown;
+}
+
+QLabel#random_word {
+    color: darkblue;
+    font-size: 45px;
+}
+QLabel#title {
+    color: darkgreen;
+    font-size: 25px;
+}
+
+
